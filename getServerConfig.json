@@ -7,58 +7,56 @@
 		"blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
 		"serverGroup": [{
 			"server": [{
-				"host": "2YB1/XYdUx57o19KpsmLBOQ==",
+				"host": "YB1/XYdUx57o19KpsmLBOQ==",
 				"port": "YEBygB7ZYyOCTIckLvPeIg==",
-				"country": "USA",
+				"country": "wqB9FwaALZu5qTnAvjY1Eg==",
 				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 			}, {
 				"host": "vhtPiyrjNu3VohvqXu8EVA==",
 				"port": "P+XntCe9nJi4F/zQ82sByg==",
-				"country": "SG",
+				"country": "wj8Guy9ChFnCUchIgnUgvQ==",
 				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 			}, {
 				"host": "hqUJe6/UKh/mu/+RTwvIiw==",
 				"port": "706v6E6wgb3ymN/P6RY9Ww==",
-				"country": "JP",
+				"country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
 				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 			}, {
 				"host": "tKFY0qGBA4U7RakSz6ZzXA==",
 				"port": "Stvzfu5cXjicI3YI3GKA2Q==",
-				"country": "CAN",
+				"country": "h+KzJEXwcdPn5LwvgsTL5A==",
 				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 			}, {
 				"host": "JSnKNm23FfaUHY6tulINCA==",
 				"port": "ngixyPbKzswrbRO5urCnAA==",
-				"country": "AU",
+				"country": "tcZhQRSpsnKJEddKWvcG6Q==",
 				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 			}]
 		}, {
-			"server": [{
-				"host": "2YB1/XYdUx57o19KpsmLBOQ==",
-				"port": "YEBygB7ZYyOCTIckLvPeIg==",
-				"country": "USA",
-				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
-			}, {
-				"host": "vhtPiyrjNu3VohvqXu8EVA==",
-				"port": "P+XntCe9nJi4F/zQ82sByg==",
-				"country": "SG",
-				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
-			}, {
-				"host": "hqUJe6/UKh/mu/+RTwvIiw==",
-				"port": "706v6E6wgb3ymN/P6RY9Ww==",
-				"country": "JP",
-				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
-			}, {
-				"host": "tKFY0qGBA4U7RakSz6ZzXA==",
-				"port": "Stvzfu5cXjicI3YI3GKA2Q==",
-				"country": "CAN",
-				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
-			}, {
-				"host": "JSnKNm23FfaUHY6tulINCA==",
-				"port": "ngixyPbKzswrbRO5urCnAA==",
-				"country": "AU",
-				"method": "Vb7d3KAw8m/SSKrukJTdlw=="
-			}]
+			"host": "2YB1/XYdUx57o19KpsmLBOQ==",
+			"port": "YEBygB7ZYyOCTIckLvPeIg==",
+			"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+			"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+		}, {
+			"host": "vhtPiyrjNu3VohvqXu8EVA==",
+			"port": "P+XntCe9nJi4F/zQ82sByg==",
+			"country": "wj8Guy9ChFnCUchIgnUgvQ==",
+			"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+		}, {
+			"host": "hqUJe6/UKh/mu/+RTwvIiw==",
+			"port": "706v6E6wgb3ymN/P6RY9Ww==",
+			"country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
+			"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+		}, {
+			"host": "tKFY0qGBA4U7RakSz6ZzXA==",
+			"port": "Stvzfu5cXjicI3YI3GKA2Q==",
+			"country": "h+KzJEXwcdPn5LwvgsTL5A==",
+			"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+		}, {
+			"host": "JSnKNm23FfaUHY6tulINCA==",
+			"port": "ngixyPbKzswrbRO5urCnAA==",
+			"country": "tcZhQRSpsnKJEddKWvcG6Q==",
+			"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 		}]
 	}
 }
