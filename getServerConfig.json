@@ -2,7 +2,7 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 19,
+		"serverVersion": 20,
 		"blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
 		"blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
 		"blueWhaleD": "64MCmjpn44gn+AOrFpiQuQ==",
@@ -70,7 +70,7 @@
 						"country": "A061yuyoZxsAnx2LEV0xQg==",
 						"zhCity": "PjkZH40ZatSZ3KLot1SmVw==",
 						"enCity": "kGzwKpCkriBbe3IUhcQCOA==",
-						"method": "Z6h4/oBn3SI86gN0CsTprQ=="
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					}
 				]
 			},
@@ -129,7 +129,7 @@
 						"country": "A061yuyoZxsAnx2LEV0xQg==",
 						"zhCity": "PjkZH40ZatSZ3KLot1SmVw==",
 						"enCity": "kGzwKpCkriBbe3IUhcQCOA==",
-						"method": "Z6h4/oBn3SI86gN0CsTprQ=="
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					}
 				]
 			}
