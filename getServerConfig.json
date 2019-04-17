@@ -2,7 +2,7 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 18,
+		"serverVersion": 19,
 		"blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
 		"blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
 		"blueWhaleD": "64MCmjpn44gn+AOrFpiQuQ==",
@@ -17,16 +17,16 @@
 		],
 		"serverGroup": [{
 				"server": [{
-						"host": "YB1/XYdUx57o19KpsmLBOQ==",
-						"port": "YEBygB7ZYyOCTIckLvPeIg==",
+						"host": "DZh1GrZEQn3PyRVElWa4fg==",
+						"port": "bbLJ2eM8GsaccyYLF/N1Ng==",
 						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
 						"zhCity": "tVmgcfyQBHh9CEIn+c2+/Q==",
 						"enCity": "ozX42NwwzMTtixWDDjWb4w==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "vhtPiyrjNu3VohvqXu8EVA==",
-						"port": "P+XntCe9nJi4F/zQ82sByg==",
+						"host": "3E1Z8AoEDtaLR1aAOBNXQA==",
+						"port": "aRIogIJl6FbcyghY8YsJ2A==",
 						"country": "wj8Guy9ChFnCUchIgnUgvQ==",
 						"zhCity": "yqWrM3tHspcvh6gwXo2f8Q==",
 						"enCity": "Rjo1mQk2gV2NM+4YD/rUDg==",
@@ -41,16 +41,16 @@
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "tKFY0qGBA4U7RakSz6ZzXA==",
-						"port": "Stvzfu5cXjicI3YI3GKA2Q==",
+						"host": "LvXnyGRe+sKSpM4G8Srm+w==",
+						"port": "ZpwXw0MysKBGRG4eFNystg==",
 						"country": "h+KzJEXwcdPn5LwvgsTL5A==",
 						"zhCity": "BRyGqHf61UvPYB5nvaH58g==",
 						"enCity": "aVfmVTvNEo4pf4z/x/90ww==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "JSnKNm23FfaUHY6tulINCA==",
-						"port": "ngixyPbKzswrbRO5urCnAA==",
+						"host": "uylk+iec5NHzClYR00VLEg==",
+						"port": "Ob1E88/7e3DNxYzTjuX/mw==",
 						"country": "tcZhQRSpsnKJEddKWvcG6Q==",
 						"zhCity": "BPqD9pKqYDB7lDMRo0vMqA==",
 						"enCity": "i/P1DosdoLHziIhJ2d8Uzw==",
@@ -63,21 +63,29 @@
 						"zhCity": "jlNtsa/qaDjmK1MHrnO6fw==",
 						"enCity": "kGzwKpCkriBbe3IUhcQCOA==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "vmI6Uo1a06cD27pHq4A4vg==",
+						"port": "pVlgC2GlaWM+BSWpluyN2Q==",
+						"country": "A061yuyoZxsAnx2LEV0xQg==",
+						"zhCity": "PjkZH40ZatSZ3KLot1SmVw==",
+						"enCity": "kGzwKpCkriBbe3IUhcQCOA==",
+						"method": "Z6h4/oBn3SI86gN0CsTprQ=="
 					}
 				]
 			},
 			{
 				"server": [{
-						"host": "YB1/XYdUx57o19KpsmLBOQ==",
-						"port": "YEBygB7ZYyOCTIckLvPeIg==",
+						"host": "DZh1GrZEQn3PyRVElWa4fg==",
+						"port": "bbLJ2eM8GsaccyYLF/N1Ng==",
 						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
 						"zhCity": "tVmgcfyQBHh9CEIn+c2+/Q==",
 						"enCity": "ozX42NwwzMTtixWDDjWb4w==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "vhtPiyrjNu3VohvqXu8EVA==",
-						"port": "P+XntCe9nJi4F/zQ82sByg==",
+						"host": "3E1Z8AoEDtaLR1aAOBNXQA==",
+						"port": "aRIogIJl6FbcyghY8YsJ2A==",
 						"country": "wj8Guy9ChFnCUchIgnUgvQ==",
 						"zhCity": "yqWrM3tHspcvh6gwXo2f8Q==",
 						"enCity": "Rjo1mQk2gV2NM+4YD/rUDg==",
@@ -92,16 +100,16 @@
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "tKFY0qGBA4U7RakSz6ZzXA==",
-						"port": "Stvzfu5cXjicI3YI3GKA2Q==",
+						"host": "LvXnyGRe+sKSpM4G8Srm+w==",
+						"port": "ZpwXw0MysKBGRG4eFNystg==",
 						"country": "h+KzJEXwcdPn5LwvgsTL5A==",
 						"zhCity": "BRyGqHf61UvPYB5nvaH58g==",
 						"enCity": "aVfmVTvNEo4pf4z/x/90ww==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "JSnKNm23FfaUHY6tulINCA==",
-						"port": "ngixyPbKzswrbRO5urCnAA==",
+						"host": "uylk+iec5NHzClYR00VLEg==",
+						"port": "Ob1E88/7e3DNxYzTjuX/mw==",
 						"country": "tcZhQRSpsnKJEddKWvcG6Q==",
 						"zhCity": "BPqD9pKqYDB7lDMRo0vMqA==",
 						"enCity": "i/P1DosdoLHziIhJ2d8Uzw==",
@@ -114,6 +122,14 @@
 						"zhCity": "jlNtsa/qaDjmK1MHrnO6fw==",
 						"enCity": "kGzwKpCkriBbe3IUhcQCOA==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "vmI6Uo1a06cD27pHq4A4vg==",
+						"port": "pVlgC2GlaWM+BSWpluyN2Q==",
+						"country": "A061yuyoZxsAnx2LEV0xQg==",
+						"zhCity": "PjkZH40ZatSZ3KLot1SmVw==",
+						"enCity": "kGzwKpCkriBbe3IUhcQCOA==",
+						"method": "Z6h4/oBn3SI86gN0CsTprQ=="
 					}
 				]
 			}
