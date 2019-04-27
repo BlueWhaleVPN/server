@@ -3,9 +3,9 @@
 	"message": "",
 	"data": {
 		"serverVersion": 23,
-		"blueWhaleF": "FiYvmeJQ36DPd9lu/gT4Lw==",
+		"blueWhaleF": "meXJrgf/Z5tetT8Kb2ql2A==",
 		"blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
-		"blueWhaleD": "64MCmjpn44gn+AOrFpiQuQ==",
+		"blueWhaleD": "SC6rdb6PPWifYE0rlevLPw==",
 		"advanceServer": [{
 				"host": "PspP5TMBOQ78KiCTvkVKuQ==",
 				"port": "fOB5JWyKSq9h2Sx06nXCxg==",
@@ -17,11 +17,27 @@
 		],
 		"serverGroup": [{
 				"server": [{
-						"host": "DZh1GrZEQn3PyRVElWa4fg==",
-						"port": "bbLJ2eM8GsaccyYLF/N1Ng==",
+						"host": "cCVz+tmjHRN/90OEvZNFsQ==",
+						"port": "B3KRP5s6jtEjryXtXeVwuQ==",
 						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
 						"zhCity": "tVmgcfyQBHh9CEIn+c2+/Q==",
 						"enCity": "ozX42NwwzMTtixWDDjWb4w==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					 {
+						"host": "qDdbD+jwObbmzs+EzJjZkw==",
+						"port": "Ef73e1id/cBBec12NjD65Q==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "qtnSYtvrVj+4GoQX6l6w1A==",
+						"enCity": "8sNe8lYfsNFFXS+p2SGmUQ==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					 {
+						"host": "3QBSG1quw4qT5ISXFobPvQ==",
+						"port": "uAiB8Dusn5yE4vAhbczISA==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "1OyVvf7C+mAHZMAWj+EBAg==",
+						"enCity": "AUqDktDPet6E1WvMKZH2ZQ==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
@@ -92,11 +108,27 @@
 			},
 			{
 				"server": [{
-						"host": "DZh1GrZEQn3PyRVElWa4fg==",
-						"port": "bbLJ2eM8GsaccyYLF/N1Ng==",
+						"host": "cCVz+tmjHRN/90OEvZNFsQ==",
+						"port": "B3KRP5s6jtEjryXtXeVwuQ==",
 						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
 						"zhCity": "tVmgcfyQBHh9CEIn+c2+/Q==",
 						"enCity": "ozX42NwwzMTtixWDDjWb4w==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					  {
+						"host": "qDdbD+jwObbmzs+EzJjZkw==",
+						"port": "Ef73e1id/cBBec12NjD65Q==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "qtnSYtvrVj+4GoQX6l6w1A==",
+						"enCity": "8sNe8lYfsNFFXS+p2SGmUQ==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					 {
+						"host": "3QBSG1quw4qT5ISXFobPvQ==",
+						"port": "uAiB8Dusn5yE4vAhbczISA==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "1OyVvf7C+mAHZMAWj+EBAg==",
+						"enCity": "AUqDktDPet6E1WvMKZH2ZQ==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
