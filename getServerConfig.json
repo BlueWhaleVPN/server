@@ -8,8 +8,8 @@
         "blueWhaleD": "SC6rdb6PPWifYE0rlevLPw==",
         "blueWhaleSc": "lG5Oxwq6Nw7dDykrY4Hymg==",
         "blueWhaleL": "ILh3sJYXvtpBCroW5tx7Kw==",
-        "blueWhaleIA": "p/BTBp24g0yg4JFQUMk94w==",
-        "blueWhaleIB": "p/BTBp24g0yg4JFQUMk94w==",
+        "blueWhaleIA": "Azv5XUnlabqyCVvRmbqWdg==",
+        "blueWhaleIB": "p2E7VOj5hkA+vaqLW0VjLA==",
         "advanceServer": [
             {
                 "host": "0lOW67ivpkU+9ptUviGuig==",
@@ -61,22 +61,7 @@
             }
         ],
         "limitServer": [
-            {
-                "host": "0lOW67ivpkU+9ptUviGuig==",
-                "port": "+rxEUcdl8vcwsnT0rVgVKw==",
-                "country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
-                "zhCity": "jFUJeF/QJyz9C2HnpQaheg==",
-                "enCity": "emXbGKCem/CQX1dnAtQL4g==",
-                "method": "Vb7d3KAw8m/SSKrukJTdlw=="
-            },
-            {
-                "host": "paxegh7jmG44RAB6dTbrag==",
-                "port": "1J9vkt/0He2WlRIfut1uOw==",
-                "country": "wqB9FwaALZu5qTnAvjY1Eg==",
-                "zhCity": "tVmgcfyQBHh9CEIn+c2+/Q==",
-                "enCity": "ozX42NwwzMTtixWDDjWb4w==",
-                "method": "Vb7d3KAw8m/SSKrukJTdlw=="
-            }
+            
         ],
         "serverGroup": [
             {
