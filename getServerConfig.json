@@ -354,11 +354,14 @@
         "homeServerGroup": [
             {
                 "server": [
-                    
-                ]
-            },
-            {
-                "server": [
+                    {
+                        "host": "EoFsdSc5ZhkERKalasZmxw==",
+                        "port": "X6noGt873ZchkhawAT6zog==",
+                        "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
+                        "zhCity": "3rh4Z/pQwnvoIqEs4iKT3A==",
+                        "enCity": "ew0hWtPCrxBe9SBASWlIuw==",
+                        "method": "Vb7d3KAw8m/SSKrukJTdlw=="
+                    }
                     
                 ]
             }
