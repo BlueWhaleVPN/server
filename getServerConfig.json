@@ -68,7 +68,14 @@
                 "method": "Vb7d3KAw8m/SSKrukJTdlw=="
             }
         ],
-        "limitServer": [ 
+        "limitServer": [  {
+                "host": "uyBJDXPSJs9+1p25MwnxMQ==",
+                "port": "/Wr62U0VAKqgFuJqofbJmw==",
+                "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
+                "zhCity": "YV9PhnZCd2/qsQ8+rXpHLg==",
+                "enCity": "OFYM4/YVFYragKEa1wBoZA==",
+                "method": "Vb7d3KAw8m/SSKrukJTdlw=="
+            }
         ],
         "serverGroup": [
             {
