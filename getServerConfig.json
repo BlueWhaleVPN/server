@@ -68,7 +68,7 @@
                 "method": "Vb7d3KAw8m/SSKrukJTdlw=="
             }
         ],
-        "limitServer": [  {
+        "serverLimit": [  {
                 "host": "uyBJDXPSJs9+1p25MwnxMQ==",
                 "port": "/Wr62U0VAKqgFuJqofbJmw==",
                 "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
@@ -362,7 +362,7 @@
         "homeAdvanceServer": [
             
         ],
-        "homeLimitServer": [
+        "homeServerLimit": [
             
         ],
         "homeServerGroup": [
