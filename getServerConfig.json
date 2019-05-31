@@ -68,14 +68,14 @@
                 "method": "Vb7d3KAw8m/SSKrukJTdlw=="
             }
         ],
-        "serverLimit": [  {
-                "host": "uyBJDXPSJs9+1p25MwnxMQ==",
-                "port": "/Wr62U0VAKqgFuJqofbJmw==",
-                "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
-                "zhCity": "YV9PhnZCd2/qsQ8+rXpHLg==",
-                "enCity": "OFYM4/YVFYragKEa1wBoZA==",
-                "method": "Vb7d3KAw8m/SSKrukJTdlw=="
-            }
+        "serverLimit": [ {
+                        "host": "4Wwj9R72o34rG4tRc/1j2A==",
+                        "port": "I2ERY8fXxVni0s4sy/9mTw==",
+                        "country": "fZ2Jys2ojl48L24XxNVcFg==",
+                        "zhCity": "jyBZDc79zBp99k0WeFPknA==",
+                        "enCity": "YPxnAhDTiLveopludubp4Q==",
+                        "method": "Vb7d3KAw8m/SSKrukJTdlw=="
+                    } 
         ],
         "serverGroup": [
             {
