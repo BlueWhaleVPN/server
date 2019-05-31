@@ -357,14 +357,8 @@
 		"homeAdvanceServer": [
 
 		],
-		"homeServerLimit": [{
-			"host": "EoFsdSc5ZhkERKalasZmxw==",
-			"port": "X6noGt873ZchkhawAT6zog==",
-			"country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
-			"zhCity": "3rh4Z/pQwnvoIqEs4iKT3A==",
-			"enCity": "ew0hWtPCrxBe9SBASWlIuw==",
-			"method": "Vb7d3KAw8m/SSKrukJTdlw=="
-		}],
+		"homeServerLimit": [
+		],
 		"homeServerGroup": [{
 			"server": [{
 					"host": "EoFsdSc5ZhkERKalasZmxw==",
@@ -373,7 +367,15 @@
 					"zhCity": "3rh4Z/pQwnvoIqEs4iKT3A==",
 					"enCity": "ew0hWtPCrxBe9SBASWlIuw==",
 					"method": "Vb7d3KAw8m/SSKrukJTdlw=="
-				}
+				},
+	                        {
+			                "host": "qoiGpGJCrSpUDeIR1ZrOlw==",
+			                "port": "Jptim7Egj6gX0abP+u7KAg==",
+			                "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
+			                "zhCity": "UwGxJLLQ8xS3mwc1frWMaQ==",
+			                "enCity": "TD59l955fqRusBxY60+g8Q==",
+			                 "method": "etGwjaFpNJMYeusFSl0Vqw=="
+		}
 
 			]
 		}]
