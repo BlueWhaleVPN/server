@@ -2,7 +2,7 @@
     "status": true,
     "message": "",
     "data": {
-        "serverVersion": 52,
+        "serverVersion": 53,
         "blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
         "blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
         "blueWhaleD": "NSM4RNp2m+QchLVCyVo6vw==",
@@ -70,7 +70,83 @@
                     } 
         ],
         "serverGroup": [
-            {
+             {
+                "server": [
+                    {
+						"host": "+7qzN3gotG/odSymC6Zqog==",
+						"port": "RMeftZLaDWx1fbnPBRYlDw==",
+						"country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
+						"zhCity": "jFUJeF/QJyz9C2HnpQaheg==",
+						"enCity": "emXbGKCem/CQX1dnAtQL4g==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "PmW/Gbp6vWrhGtSG9YrxWA==",
+						"port": "3NOzEKBQ/T6LwtMttluydA==",
+						"country": "wj8Guy9ChFnCUchIgnUgvQ==",
+						"zhCity": "yqWrM3tHspcvh6gwXo2f8Q==",
+						"enCity": "Rjo1mQk2gV2NM+4YD/rUDg==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "WpqH3ya0JDh9J/VPpeJnoQ==",
+						"port": "W+tOMpjh8jrju6yBNP0rZg==",
+						"country": "A061yuyoZxsAnx2LEV0xQg==",
+						"zhCity": "PjkZH40ZatSZ3KLot1SmVw==",
+						"enCity": "Z6h4/oBn3SI86gN0CsTprQ==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "Oz6K13ZDm7/7CnJAtHvo0Q==",
+						"port": "SvMgFWUopC8E2lVAgoLEbA==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "+68pN6Et33uYAZMSls6nfw==",
+						"enCity": "qCnSsrotSIjOQ/PWV9T1qg==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "JIuQz3sl4rvYSjfBdj6IkQ==",
+						"port": "E1UpP4g57bfDrQapO73WPQ==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "GSHkfpWQOZ2dpAa7ol8MJg==",
+						"enCity": "/fJkTeCed/ZtIRdjkkrZXw==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "t9W4puwlMdem6hub276S4A==",
+						"port": "PiCbc5KnxC/r9x3giFhhAQ==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "NwZamKBmXwMjpvrqLWq2/A==",
+						"enCity": "6LnMa5pV1egp9QWf0bAXmw==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "gDoj+hFiKO+jiVfb81T1Qw==",
+						"port": "eDqWCRqgnFOuHLmXjuOkDQ==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "CAxxcj9YoE+ntXTP+YnhoQ==",
+						"enCity": "YQNv2v4MtKCAypfM4RiGBQ==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "2y5ITHI0KVALhSF/HJUUBQ==",
+						"port": "DVV/P82UVHN7x5D7YTyijw==",
+						"country": "h+KzJEXwcdPn5LwvgsTL5A==",
+						"zhCity": "BRyGqHf61UvPYB5nvaH58g==",
+						"enCity": "aVfmVTvNEo4pf4z/x/90ww==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					},
+					{
+						"host": "vHdiXmAAPkZUoDEnz2AbOg==",
+						"port": "NGLPvQlFFuaX6XMLH1UQFA==",
+						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
+						"zhCity": "g34jtzyyevJW2ZK2OgcnEA==",
+						"enCity": "qQr/OP1Lsi9w0Ok8EMBazQ==",
+						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
+					}
+                ]
+            },
+		{
                 "server": [
                      {
 						"host": "CklLfNVxOFH/G2B2Dsq4XQ==",
