@@ -3,11 +3,12 @@
     "message": "",
     "data": {
         "serverVersion": 48,
+        "intervalAdTime": 60,
         "blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
         "blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
         "blueWhaleD": "NSM4RNp2m+QchLVCyVo6vw==",
         "blueWhaleSc": "oFSDuvRhql1vfTkUf0e8yw==",
-        "blueWhaleL": "VCPcgrm5WSDHVn7OSGdtIA==",
+        "blueWhaleL": "vR8K7dL+cuXVIC4ZnWgJmw==",
         "blueWhaleIA": "meXJrgf/Z5tetT8Kb2ql2A==",
         "blueWhaleIB": "p2E7VOj5hkA+vaqLW0VjLA==",
         "advanceServer": [
