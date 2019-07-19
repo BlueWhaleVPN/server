@@ -723,22 +723,7 @@
         "homeServerGroup": [
             {
                 "server": [
-                    {
-                        "host": "8R6t4PADf7xfi1uswiVz9A==",
-                        "port": "5wLjj2sMbaamxGYCc1e2ow==",
-                        "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
-                        "zhCity": "3rh4Z/pQwnvoIqEs4iKT3A==",
-                        "enCity": "ew0hWtPCrxBe9SBASWlIuw==",
-                        "method": "etGwjaFpNJMYeusFSl0Vqw=="
-                    },
-                    {
-                        "host": "xHAk7gSqdfPt6/zfDjQxFQ==",
-                        "port": "5wLjj2sMbaamxGYCc1e2ow==",
-                        "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
-                        "zhCity": "Z2UWUS/mF/tJhoeeR/LE6g==",
-                        "enCity": "wl38xmseQ4+4G38MlVkfXA==",
-                        "method": "etGwjaFpNJMYeusFSl0Vqw=="
-                    }
+                    
                 ]
             }
         ]
