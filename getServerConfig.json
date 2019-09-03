@@ -2,10 +2,10 @@
     "status": true,
     "message": "",
     "data": {
-        "serverVersion": 62,
+        "serverVersion": 63,
         "intervalAdTime": 60,
         "blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
-        "blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
+        "blueWhaleA": "N6cpzjGXHfRJr0IhIR+KaA==",
         "blueWhaleD": "NSM4RNp2m+QchLVCyVo6vw==",
         "blueWhaleSc": "cmabHinj28af4sDrXb6lJg==",
         "blueWhaleL": "P5ruN1AwlX/v4h76EMN4Iw==",
@@ -50,14 +50,6 @@
                 "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
                 "zhCity": "MSLioriUw5YeLZSS/4vUmg==",
                 "enCity": "ilWO2WrMdnlz7mBO9KzAEA==",
-                "method": "Vb7d3KAw8m/SSKrukJTdlw=="
-            },
-            {
-                "host": "FVIPoB/OvKO7Aq6xjKpsZQ==",
-                "port": "rvHAvrjWsgV6wZQx26xR0A==",
-                "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
-                "zhCity": "7GY5A0kgVtAyX9DYV4Dwgg==",
-                "enCity": "pzyqIny6wkpub9HTrzxDoA==",
                 "method": "Vb7d3KAw8m/SSKrukJTdlw=="
             },
             {
