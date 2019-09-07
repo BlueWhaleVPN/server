@@ -2,7 +2,7 @@
     "status": true,
     "message": "",
     "data": {
-        "serverVersion": 64,
+        "serverVersion": 65,
         "intervalAdTime": 60,
         "blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
         "blueWhaleA": "N6cpzjGXHfRJr0IhIR+KaA==",
@@ -37,7 +37,7 @@
                 "method": "Vb7d3KAw8m/SSKrukJTdlw=="
             },
             {
-                "host": "WCt13F4rpAFjhsZzIXgscA==",
+                "host": "BTkhbhTQQhgJ26M3PJobNw==",
                 "port": "KfrqAFkSjV2CNa6UheT7hg==",
                 "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
                 "zhCity": "cmVMmcbH4HYBNaO+EbDJIg==",
