@@ -2,7 +2,7 @@
   "status": true,
   "message": "",
   "data": {
-    "serverVersion": 81,
+    "serverVersion": 82,
     "intervalAdTime": 60,
     "blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
     "blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
@@ -203,6 +203,8 @@
           }],
     "serverLimit": [],
     "homeServerGroup": [{
+                "server": [
+			{
             "host": "ySJtOaIpjpCfjFUpdDVVuw==",
             "port": "cyX6lR+ux2ildoNaPfeEEg==",
             "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
@@ -217,7 +219,10 @@
             "zhCity": "3rh4Z/pQwnvoIqEs4iKT3A==",
             "enCity": "ew0hWtPCrxBe9SBASWlIuw==",
             "method": "Vb7d3KAw8m/SSKrukJTdlw=="
-          }],
+          }
+                    
+                ]
+            }],
     "homeAdvanceServer": [],
     "homeServerLimit": []
   }
