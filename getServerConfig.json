@@ -2,7 +2,7 @@
     "status": true,
     "message": "",
     "data": {
-        "serverVersion": 98,
+        "serverVersion": 99,
         "intervalAdTime": 60,
         "blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
         "blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
@@ -11,7 +11,7 @@
         "blueWhaleL": "6h3WCUJNC3nXgXGL61tsHg==",
         "blueWhaleIA": "meXJrgf/Z5tetT8Kb2ql2A==",
         "blueWhaleIB": "p2E7VOj5hkA+vaqLW0VjLA==",
-        "igh": true,
+        "igh": false,
         "sul": "Zhfz/wepXPRfFv2Ss58UHj7Z8aWXYEVSFbN1JWln8Q6S0q+tFuhexFw4przrWuCav23EDbPfWPdVTE4GnY7OtQ==",
         "cul": "Zhfz/wepXPRfFv2Ss58UHj7Z8aWXYEVSFbN1JWln8Q65EaAnAh92ejpza5RPE88X",
         "serverGroup": [
